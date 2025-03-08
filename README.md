@@ -81,25 +81,25 @@ Paying higher monthly charges (>$70)
 ### Visual Insights:
 
 Churn Distribution: Highlights a significant churn rate (~26.5%), indicating critical retention issues.
-    [![Churn Distribution](plots/churn_distribution.png)](plots/churn_distribution.png)
+    [![Churn Distribution](notebooks/plots/churn_distribution.png)](notebooks/plots/churn_distribution.png)
 
 Numerical Features ANOVA Scores: Indicates that tenure has the highest predictive importance, followed by MonthlyCharges and TotalCharges.
-    [![Numerical Features ANOVA Scores](plots/anova.png)](plots/anova.png)
+    [![Numerical Features ANOVA Scores](notebooks/plots/anova.png)](notebooks/plots/anova.png)
 
 Categorical Features Importance: Identifies crucial categorical features influencing churn (e.g., Contract type, OnlineSecurity).
-    [![Categorical Features Importance](plots/chi.png)](plots/chi.png)
+    [![Categorical Features Importance](notebooks/plots/chi.png)](notebooks/plots/chi.png)
 
 Monthly Charges vs. Services: Demonstrates customer churn related to pricing of Fiber Optic and Streaming services.
-    [![Monthly Charges vs. Services](plots/monthly_charges_box_plot_services.png)](plots/monthly_charges_box_plot_services.png)
+    [![Monthly Charges vs. Services](notebooks/plots/monthly_charges_box_plot_services.png)](notebooks/plots/monthly_charges_box_plot_services.png)
 
 Tenure vs. Billing & Payment Methods: Reveals critical tenure periods where customers reconsider their billing and payment methods.
-    [![Tenure vs. Billing & Payment Methods](plots/tenure_box_plot_billing.png)](plots/tenure_box_plot_billing.png)
+    [![Tenure vs. Billing & Payment Methods](notebooks/plots/tenure_box_plot_billing.png)](notebooks/plots/tenure_box_plot_billing.png)
 
 Tenure vs. Additional Services: Highlights customer retention patterns concerning OnlineSecurity, OnlineBackup, DeviceProtection, and TechSupport.
-    [![Tenure vs. Additional Services](plots/tenure_box_plot_services.png)](plots/tenure_box_plot_services.png)
+    [![Tenure vs. Additional Services](notebooks/plots/tenure_box_plot_services.png)](notebooks/plots/tenure_box_plot_services.png)
 
 Correlation Matrix Heatmap: Visualizes relationships among numerical features.
-    [![Correlation Matrix Heatmap](plots/correlation_matrix.png)](plots/correlation_matrix.png)
+    [![Correlation Matrix Heatmap](notebooks/plots/correlation_matrix.png)](notebooks/plots/correlation_matrix.png)
 
 ### Feature Engineering and Preprocessing
 
