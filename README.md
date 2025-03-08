@@ -98,8 +98,6 @@ Tenure vs. Billing & Payment Methods: Reveals critical tenure periods where cust
 Tenure vs. Additional Services: Highlights customer retention patterns concerning OnlineSecurity, OnlineBackup, DeviceProtection, and TechSupport.
     [![Tenure vs. Additional Services](notebooks/plots/tenure_box_plot_services.png)](notebooks/plots/tenure_box_plot_services.png)
 
-Correlation Matrix Heatmap: Visualizes relationships among numerical features.
-    [![Correlation Matrix Heatmap](notebooks/plots/correlation_matrix.png)](notebooks/plots/correlation_matrix.png)
 
 ### Feature Engineering and Preprocessing
 
